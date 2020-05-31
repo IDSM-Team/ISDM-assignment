@@ -153,8 +153,16 @@ Use case #UC104 - Live chat service
 
 ![Sequence Diagram UC104](Sequence%20Diagram%20UC104.png)
 
+Use case #UC103 - Sell holiday package to customers
+
+![Sequence Diagram UC103](Sequence%20Diagram%20UC103.PNG)
+
 ### Activity Diagram 
 
 Use case #UC104 - Live chat service
 
 ![Activity Diagram UC104](Activity%20Diagram%20UC104.png)
+
+Use case #UC103 - Sell holiday package to customers
+
+![Activity Diagram UC103](Activity%20Diagram%20UC103.PNG)
