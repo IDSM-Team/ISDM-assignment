@@ -165,4 +165,4 @@ Use case #UC104 - Live chat service
 
 Use case #UC103 - Sell holiday package to customers
 
-![Activity Diagram UC103](Activity%20Diagram%20UC103.PNG)
+![Activity Diagram UC103](Activity%20Diagram%20UC103.png)
