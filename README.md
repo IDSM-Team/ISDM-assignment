@@ -84,7 +84,7 @@ Est: 2   Imp: Low
 |User Story|As a member of the Relationship Managers, I want to be able to sell holiday packages to customers, so that the company can increase sales.|
 |Goal|To allow Relationship managers to select holiday packages to sell to the customer.|
 |Priority|High|
-|Actors|Primary - Relationship Manager|
+|Actors|Primary - Relationship Manager <br> Secondary - Customer|
 |Pre-conditions|The relationship manager is in a call with the customer|
 |Post-conditions|The customer is able to purchase the recommended holiday package from the Relationship Manager|
 |Trigger|The Relationship Manager decides to sell a holiday package|
