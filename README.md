@@ -1,5 +1,11 @@
 # ISDM-assignment
 
+# Executive Summary 
+
+The purpose of the report is to improve and update the operation of the in-house call management system. Improving this operation will adjust the amount of calls that can be taken and how the problem can be solved or sorted quickly in the future. The improved system will help the relationship managers to connect to the right customer and enhance their performances. Thus, establishing the suitable and proper system is needed to increase the performance of the call management centre.
+Five approaches of design thinking process (Empathise, Define, Ideate, Prototype and Test), will be used to aim for a simplified systematic approach to meet the requirements of the stakeholders and future stakeholders for the company. The improvement of the system will use the agile method as it will allow responsive changes, according to the situation.  
+In this report, various diagram models are used to present a clear flow of use cases for easier implementation and understanding. As errors could be easily detected through re-evaluation of the diagram.
+
 ### Objectives for New System Implementation:
 The objective of this system update is to improve the operation of their in-house call management. This overall will adjust the amount of calls that can be taken as well as how quickly they can be resolved. Another use case of this will improve the sales on holiday packages. Overall achieving these objectives will further. There will need to be an analysis on how many use cases there are in regard to the new system and how many of them will be new and vital over the current system. Our goal will be to design and build an agile scalable system to allow for a lot of room for the system to cope in the event of a large back up of calls. The overall goal is to filter customers to the best fitted Relationship Manager (RM). This will further enhance the efficiency of how each RM can assign a customer with their holiday packages. An improvement of this will then lead to a lot of wasted time being used efficiently as there will be less time needed to sort and filter customers or to even randomly assign the customer to a different RM every time.
 
