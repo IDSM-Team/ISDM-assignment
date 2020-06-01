@@ -1,6 +1,6 @@
 # ISDM-assignment
 
-# Executive Summary - Aaron Wibisono
+### Executive Summary - Aaron Wibisono
 
 The purpose of the report is to improve and update the operation of the in-house call management system. Improving this operation will adjust the amount of calls that can be taken and how the problem can be solved or sorted quickly in the future. The improved system will help the relationship managers to connect to the right customer and enhance their performances. Thus, establishing the suitable and proper system is needed to increase the performance of the call management centre.
 Five approaches of design thinking process (Empathise, Define, Ideate, Prototype and Test), will be used to aim for a simplified systematic approach to meet the requirements of the stakeholders and future stakeholders for the company. The improvement of the system will use the agile method as it will allow responsive changes, according to the situation.  
