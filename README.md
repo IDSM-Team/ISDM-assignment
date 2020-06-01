@@ -1,15 +1,15 @@
 # ISDM-assignment
 
-# Executive Summary 
+# Executive Summary - Aaron Wibisono
 
 The purpose of the report is to improve and update the operation of the in-house call management system. Improving this operation will adjust the amount of calls that can be taken and how the problem can be solved or sorted quickly in the future. The improved system will help the relationship managers to connect to the right customer and enhance their performances. Thus, establishing the suitable and proper system is needed to increase the performance of the call management centre.
 Five approaches of design thinking process (Empathise, Define, Ideate, Prototype and Test), will be used to aim for a simplified systematic approach to meet the requirements of the stakeholders and future stakeholders for the company. The improvement of the system will use the agile method as it will allow responsive changes, according to the situation.  
 In this report, various diagram models are used to present a clear flow of use cases for easier implementation and understanding. As errors could be easily detected through re-evaluation of the diagram.
 
-### Objectives for New System Implementation:
+### Objectives for New System Implementation: - Richard Voice
 The objective of this system update is to improve the operation of their in-house call management. This overall will adjust the amount of calls that can be taken as well as how quickly they can be resolved. Another use case of this will improve the sales on holiday packages. Overall achieving these objectives will further. There will need to be an analysis on how many use cases there are in regard to the new system and how many of them will be new and vital over the current system. Our goal will be to design and build an agile scalable system to allow for a lot of room for the system to cope in the event of a large back up of calls. The overall goal is to filter customers to the best fitted Relationship Manager (RM). This will further enhance the efficiency of how each RM can assign a customer with their holiday packages. An improvement of this will then lead to a lot of wasted time being used efficiently as there will be less time needed to sort and filter customers or to even randomly assign the customer to a different RM every time.
 
-### Stakeholders: 
+### Stakeholders: - Richard Voice
 When assessing the stakeholders that are needed to take into consideration with the implementation of such a large system-based project, we broke our findings down to identifying stakeholders into two different groups. These groups are internal stakeholders and external stakeholders.
 
 | Internal Stakeholders| External Stakeholders |
@@ -23,7 +23,7 @@ When assessing the stakeholders that are needed to take into consideration with 
 |HR dealing with internal disputes in the duration of the project  ||
 |Shareholders (though there is a difference, shareholders may still be classified as a stakeholder in this instance)||
 
-### Planned Approach:
+### Planned Approach: - Richard Voice
 We would like to aim for a simplified approach to meet not only stakeholders’ requirements but any future stakeholders that may have some form of association with the company in the future. The process will be done through a thorough planning and testing stage. There will need to be an analysis on the old system and the need to identify if the system needs to be updated and remodelled or if there are completely new areas that need to be built within the system or the whole system itself. I would suggest a pilot implementation of the new system once ready to ensure that it works correctly and can run smoothly while achieving the goal it is designed to achieve. Using the 5 stages of design thinking, we will follow the process as necessary. The stages of this design thinking are to Empathise, Define, Ideate, Prototype and Test. 
 These stages fit the approach to have a pilot test of the product in regard to how the product will be implemented. 
 
@@ -32,17 +32,17 @@ These stages fit the approach to have a pilot test of the product in regard to h
 
 During this process we will need to ask what? How? And why? In regards to any objectives that may need to be made or implemented. This will also allow us to understand and know if the requirement is not only feasible but also viable. This will all be compared to the value this feature may be to the system.
 
-### The Agile Methodologies - 
+### The Agile Methodologies - Richard Voice 
 When looking at the movement on what is most cost effective and scalable in a business. Its safe to assume that taking an agile method approach would be best suited for this project and development of the new software/system. This will allow for responsive changes if there is any need  for some. By making the project as agile as possible. We can assume that there will be a good balance of both development guidelines and philosophy. This will include things like a well presented delivery of analysis and design as well as active and consistent communication across the board. This will also secure and assure customer satisfaction and smaller project teams who are able to collaborate in a better space. The process for the systems implementation will require a well laid out process and documentation of the projects stakeholders which can consist of managers, system users and customers. An agile approach will identify a customers needs and what is required as well as recognise that plans can be short lived. This also helps for development of software and can deliver the software in increments.
 An agile approach should allow for the fast and quick progression of team organisation as well as communication in order to complete tasks. Our approach for this system would be to take the task at hand and partition the project into parts to ensure a level of satisfaction and requirements completion through the use of prototypes that are developed throughout the making and implementation of the system. 
 This agile approach will also address multiple risks that consist of but are not limited to; Schedule slips, cancelation of the project, system eros, defect rates, misunderstandings of the business or businesses purpose, changes in the business small or large and staff turnovers if needed.
 Looking further into agile methods we have addressed the use of a scrum approach to complete the requirements needed.
 
-### Scrum -
+### Scrum - Richard Voice
  When looking at a scrum agile approach for the development of this software and project, it is easy to identify that this is a very heavily team based project that will allow for segmented teams to deliver the product in short cycles which will enhance the production rate and quality of the software/project. A scrum approach will also allow for fast constant feedback. This will allow for a consistent improvement as well as the ability to scale the project up or down based on demand if need be. This will allow the business the ability to change and adapt quickly to any major changes that may be involved. 
 This methodology has proven to have worked many times and is perfect for this project as the software is complex and may need to be changed at a moment's notice. This will further enhance the ability to adapt for changes that may be needed to be made to the system in order to tailor it better for not only the CMC but RM’s as well to further enhance a more pleasurable experience for the customer.
 
-### Assumptions made in the systems analysis. 
+### Assumptions made in the systems analysis. - Richard Voice
  
 The agile and scrum methodology can be applied to this project. It is very appropriate because we can complete the project effectively and revise it many times so that it can complete the project well without any mistakes and reduce error. This system can also be adjusted to CMC and RM to provide the services that customers want. Such system assumptions of our projects are listed below:
 1.  Assume that the system will be used to design and analyse in strengthening active communication and consistency in working on projects.
@@ -51,7 +51,7 @@ The agile and scrum methodology can be applied to this project. It is very appro
 4.  The leader can share the project with the team to deliver products or services in a short cycle that will increase the level of production and the quality of our project.
 5. 	Continuous feedback from leaders makes the business’s ability to change and adapt quickly to any major changes involved in the project.
 
-### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails.
+### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails. - Ronny Wassef and Richard Voice
 
 Developing this new system successfully will allow Relationship Managers to provide better customer service by matching them with customers better. The improved customer service could lead to more sales, as well as an improved customer experience, making it more likely for customers to return, as well as recommend the service to others. The improved customer service would provide a competitive advantage, allowing the company to stand out to customers as a better experience over competitors.
 
@@ -61,7 +61,7 @@ In the case where the system fails there will need to be procedures taken as wel
 
 If the system fails after going live, it could interrupt business, and cause dissatisfaction with customers, and prevent Relationship Managers from being able to do their jobs. This could negatively impact the view potential customers have on the company, and cause customers to leave. This would negatively impact the return on investment of this project.
 
-### User stories
+### User stories - Kevin Matthew Widjajanto
 
 \#101
 As a member of the Relationship Managers, I want to be able to capture customer’s profile details and identification through interactive voice response so that the process of selling packages and providing a service would be quicker. 
@@ -87,11 +87,11 @@ Est: 3   Imp: Medium
 As a member of the Relationship Managers, I want the customer to receive the latest package and marketing notification via SMS so that the notifications can be easily obtained.
 Est: 2   Imp: Low
 
-### User Story Map
+### User Story Map - Kevin Matthew Widjajanto
 
 ![User story map](User%20story%20map.png)
 
-### Use Case Narratives
+### Use Case Narratives - All members
 
 |Use Case ID|#UC103: Sell holiday packages to customers|
 |-|-|
@@ -153,15 +153,15 @@ Est: 2   Imp: Low
 |Supporting Information|N/A|
 |Non-functional Requirements|Implementation: SMS must be able to get customers in at least one minute to notify them<br>Security: Secure customer’s phone number and other profile details|
 
-### Use Case Diagram
+### Use Case Diagram - Kevin Matthew Widjajanto
 
 ![Use Case Diagram](Use%20Case%20Diagram.png)
 
-### Class Diagram
+### Class Diagram - Kevin Matthey Widjajanto
 
 ![Class Diagram](Class%20diagram.png)
 
-### Sequence Diagram
+### Sequence Diagram - Aaron Wibisono and Ronny Wassef
 
 Use case #UC104 - Live chat service
 
@@ -171,7 +171,7 @@ Use case #UC103 - Sell holiday package to customers
 
 ![Sequence Diagram UC103](Sequence%20Diagram%20UC103.PNG)
 
-### Activity Diagram 
+### Activity Diagram - Aaron Wibisono
 
 Use case #UC104 - Live chat service
 
@@ -180,3 +180,5 @@ Use case #UC104 - Live chat service
 Use case #UC103 - Sell holiday package to customers
 
 ![Activity Diagram UC103](Activity%20Diagram%20UC103.png)
+
+Note : Report was done in google docs, added to github by Ronny Wassef, which is why the attribution is next to names. Link to google doc https://docs.google.com/document/d/1LCpp3s8ZqxT-iUYIEtzLGhUYGjQbxJV3CwoUYaEDfZk/edit?usp=sharing.
