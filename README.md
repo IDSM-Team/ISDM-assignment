@@ -181,4 +181,4 @@ Use case #UC103 - Sell holiday package to customers
 
 ![Activity Diagram UC103](Activity%20Diagram%20UC103.png)
 
-Note : Report was done in google docs, added to github by Ronny Wassef, which is why the attribution is next to names. Link to google doc https://docs.google.com/document/d/1LCpp3s8ZqxT-iUYIEtzLGhUYGjQbxJV3CwoUYaEDfZk/edit?usp=sharing.
+Note : Report was done in google docs, added to github by Ronny Wassef, which is why the attribution is next to section titles. Link to google doc https://docs.google.com/document/d/1LCpp3s8ZqxT-iUYIEtzLGhUYGjQbxJV3CwoUYaEDfZk/edit?usp=sharing.
